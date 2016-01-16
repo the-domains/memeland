@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sir Sapiens se dice ser todo un gentleman. No importa la situación se comportará.
-datePublished: '2016-01-16T18:57:10.940Z'
-dateModified: '2016-01-16T18:57:08.186Z'
+datePublished: '2016-01-16T18:57:11.086Z'
+dateModified: '2016-01-16T18:57:10.831Z'
 title: El primer comentario que escucha Sir Sapiens
 author: []
 sourcePath: _posts/2016-01-16-el-primer-comentario-que-escucha-sir-sapiens.md
