@@ -1,0 +1,29 @@
+name: memeland
+favicon: null
+layout_spectrum: 0.501239126548171
+typography_spectrum: 0.1986288509797305
+title: 'Memeland, donde se da libertad al pensamiento y se habla de todo lo que quizás piensas y no dices'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.589852053206414
+  lightness: 0.27022100356407464
+  saturation: 0.8560715769417584
+  rhythmicContrast: 0.9299386730417609
+purpose: []
