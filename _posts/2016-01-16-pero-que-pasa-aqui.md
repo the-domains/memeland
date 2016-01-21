@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Vincent Vega de Pulp Fiction se ha vuelto demasiado famoso y fue invitado a los Globos de Oro
-datePublished: '2016-01-17T13:32:57.840Z'
-dateModified: '2016-01-17T13:23:46.111Z'
+datePublished: '2016-01-21T21:13:58.210Z'
+dateModified: '2016-01-21T21:13:46.621Z'
 title: Pero qué pasa aquí tía
 author: []
 sourcePath: _posts/2016-01-16-pero-que-pasa-aqui.md
