@@ -4,8 +4,15 @@
         <description><![CDATA[Memeland, donde se da libertad al pensamiento y se habla de todo lo que quizás piensas y no dices]]></description>
         <link>https://thegrid.ai/memeland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 01:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 01:11:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/memeland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sir Sapiens sí queda tarde en la noche]]></title>
+            <description><![CDATA[<article><h1>Sir Sapiens sí queda tarde en la noche</h1><p>Recibes ese WhatsApp típico en el que te dice que sólo puede quedar contigo tarde en la noche y el Sí o No tuyo no depende de ti.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afd0e089db860e4e599318b9555452d0/croprotate.jpg?cropheight=874&cropwidth=600&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2eebafcbebd7cd1cee0ea110cfdaaa950bf50de9.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/memeland/sir-sapiens-si-queda-tarde-en-la-noche/index.html</link>
+            <guid isPermaLink="false">f6dfe49c-6826-4f42-bb03-6e7b2a75e3e8</guid>
+            <pubDate>Fri, 22 Jan 2016 01:11:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pero qué pasa aquí tía]]></title>
             <description><![CDATA[<article><h1>Pero qué pasa aquí tía</h1><p>Y el premio es para ... Lady Gaga</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0cad3715e41196b9d45ad1d0f23aa3264a181b0.gif"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/memeland/el-primer-comentario-que-escucha-sir-sapiens/index.html</link>
             <guid isPermaLink="false">5178401f-802a-469a-bac4-8dbfeed1e6e5</guid>
             <pubDate>Sun, 17 Jan 2016 13:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Sapiens sí queda tarde en la noche]]></title>
-            <description><![CDATA[<article><h1>Sir Sapiens sí queda tarde en la noche</h1><p>Recibes ese WhatsApp típico en el que te dice que sólo puede quedar contigo tarde en la noche y el Sí o No tuyo no depende de ti.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afd0e089db860e4e599318b9555452d0/croprotate.jpg?cropheight=874&cropwidth=600&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2eebafcbebd7cd1cee0ea110cfdaaa950bf50de9.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/memeland/sir-sapiens-si-queda-tarde-en-la-noche/index.html</link>
-            <guid isPermaLink="false">f6dfe49c-6826-4f42-bb03-6e7b2a75e3e8</guid>
-            <pubDate>Sun, 17 Jan 2016 13:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
