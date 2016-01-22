@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Sir Sapiens se dice ser todo un gentleman. No importa la situación se comportará.
-datePublished: '2016-01-17T13:33:16.109Z'
-dateModified: '2016-01-17T13:33:15.872Z'
+datePublished: '2016-01-22T01:11:11.848Z'
+dateModified: '2016-01-22T01:01:23.280Z'
 title: Sir Sapiens sí queda tarde en la noche
 author: []
 sourcePath: _posts/2016-01-16-sir-sapiens-si-queda-tarde-en-la-noche.md
