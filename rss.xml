@@ -4,7 +4,7 @@
         <description><![CDATA[Memeland, donde se da libertad al pensamiento y se habla de todo lo que quizás piensas y no dices]]></description>
         <link>https://thegrid.ai/memeland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 23:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 08:46:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/memeland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sir Sapiens sí queda tarde en la noche]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/memeland/pero-que-pasa-aqui/index.html</link>
             <guid isPermaLink="false">a4b31107-ce51-4b9d-a972-3f49e49bc569</guid>
             <pubDate>Thu, 21 Jan 2016 21:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-mrs1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12552634_1648200982097319_3599747583176809876_n.jpg?oh=71eb83ba3b6b26ad1c4b8b46792ca654&oe=573785C5">]]></description>
+            <link>https://thegrid.ai/memeland/06b4ff98-68f7-4a63-9082-6758bd943bde/index.html</link>
+            <guid isPermaLink="false">06b4ff98-68f7-4a63-9082-6758bd943bde</guid>
+            <pubDate>Thu, 28 Jan 2016 08:45:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LITTLE GIRL vs Van Damme Split]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/memeland/guerra-de-memes-julio-iglesias-vs-el-negro-del-whatsapp-l/index.html</link>
             <guid isPermaLink="false">c5569951-5df7-4882-b032-781970ca460c</guid>
             <pubDate>Fri, 22 Jan 2016 15:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La entrevista al Negro del Whatsapp]]></title>
-            <description><![CDATA[<article><h1>La entrevista al Negro del Whatsapp</h1><p>Me traslado al futuro para entrevistar al negro del whatsapp. Si eres un meme o la tienes tan grande y quieres que te haga una entrevista raulelcatalufo@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4b05e8efce50a75f87cf79106d752f5a9df0e3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?time_continue=176&amp;v=nG6MhGBOov8</link>
-            <guid isPermaLink="false">8eed7787-a9e4-4a5f-a552-4e5a3bbab7d1</guid>
-            <pubDate>Fri, 22 Jan 2016 13:21:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
