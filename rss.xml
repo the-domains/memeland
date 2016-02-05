@@ -4,7 +4,7 @@
         <description><![CDATA[Memeland, donde se da libertad al pensamiento y se habla de todo lo que quizás piensas y no dices]]></description>
         <link>https://thegrid.ai/memeland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 16:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 16:58:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/memeland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sir Sapiens sí queda tarde en la noche]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/memeland/pero-que-pasa-aqui/index.html</link>
             <guid isPermaLink="false">a4b31107-ce51-4b9d-a972-3f49e49bc569</guid>
             <pubDate>Thu, 21 Jan 2016 21:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xtl1/v/t1.0-9/12642550_1379610002054957_7298503368959780519_n.jpg?oh=5f449031537ed7660e3ffdf86e767703&oe=572F386F">]]></description>
+            <link>https://thegrid.ai/memeland/c57eb90a-e17e-4828-88cb-794c6bc07e7c/index.html</link>
+            <guid isPermaLink="false">c57eb90a-e17e-4828-88cb-794c6bc07e7c</guid>
+            <pubDate>Fri, 05 Feb 2016 16:57:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ukSrgCUkgpc</link>
             <guid isPermaLink="false">e9d8b61c-df62-417c-8fbf-1f6b89219390</guid>
             <pubDate>Tue, 26 Jan 2016 14:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Troll canino nivel: collarín]]></title>
-            <description><![CDATA[<article><h1>Troll canino nivel: collarín</h1><p>Cuando tu handicap te convierte en el puto amo de la clase</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a226c2bdddb945c38bde0ee1deddeffebb0a0cf3.gif"></article>]]></description>
-            <link>https://thegrid.ai/memeland/troll-canino-nivel-collarin/index.html</link>
-            <guid isPermaLink="false">6114db4d-d5f3-4ada-bcf2-d3cc0a155182</guid>
-            <pubDate>Sat, 23 Jan 2016 18:15:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
